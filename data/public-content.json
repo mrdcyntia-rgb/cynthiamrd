@@ -1,0 +1,823 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "name": "Sintia Marada Hutagalung",
+      "headline": "Marketing & Sales | Telemarketing",
+      "location": "Gambir, Jakarta Pusat",
+      "email": "mrdcntyaa@gmail.com",
+      "whatsapp": "+62 822-1378-5547",
+      "linkedin": "",
+      "introSales": "Profesional Marketing dan Sales dengan pengalaman lebih dari satu tahun dalam promosi produk, pengelolaan lead berbasis CRM, dan optimalisasi proses penjualan melalui sistem ERP. Terampil dalam presentasi produk, analisis kebutuhan pelanggan, dan pencapaian target penjualan. Siap berkontribusi sebagai Product Marketing Representative untuk meningkatkan kesadaran merek, mengoptimalkan proses penjualan berbasis teknologi, dan mendukung pertumbuhan bisnis berkelanjutan.",
+      "introAdmin": "Profesional Marketing dan Sales dengan pengalaman lebih dari satu tahun dalam promosi produk, pengelolaan lead CRM, pelaporan penjualan, dan proses penjualan berbasis ERP. Pengalaman mencakup koordinasi kampanye dealer/distributor bersama Administrasi, Finance, dan Accounting sesuai SOP serta pemantauan ketersediaan stok.",
+      "profilePhoto": {
+        "url": "/images/sintia-profile.png",
+        "alt": "Sintia Marada Hutagalung"
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Telemarketing Specialist",
+      "company": "PT. Tripacific Electrindo",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "startDate": "Juni 2026",
+      "endDate": "Sekarang",
+      "summary": "Menangani telemarketing dan aktivitas pemasaran Sekai nasional, dukungan kampanye penjualan, pengelolaan CRM, serta perhitungan dan realisasi kampanye dealer/distributor.",
+      "responsibilities": [
+        {
+          "detail": "Memantau, menjalankan, dan melaporkan aktivitas pemasaran Sekai secara nasional."
+        },
+        {
+          "detail": "Mendukung aktivitas pemasaran BTL dan kampanye penjualan Sekai."
+        },
+        {
+          "detail": "Melakukan telemarketing, cold calling, lead generation, dan follow-up pelanggan."
+        },
+        {
+          "detail": "Mendukung target penjualan dan pendapatan bulanan dengan mengonversi prospek menjadi pelanggan."
+        },
+        {
+          "detail": "Mengelola dan menindaklanjuti lead melalui CRM untuk memaksimalkan konversi dan peluang penjualan."
+        },
+        {
+          "detail": "Menghitung pencapaian dan kinerja kampanye dealer/distributor."
+        },
+        {
+          "detail": "Mengelola realisasi kampanye dealer dan distributor dari awal hingga akhir."
+        },
+        {
+          "detail": "Berkoordinasi dengan tim Administrasi, Finance, dan Accounting sesuai SOP perusahaan."
+        },
+        {
+          "detail": "Memastikan insentif dan pencapaian kampanye terealisasi dan disampaikan kepada dealer/distributor."
+        },
+        {
+          "detail": "Mengembangkan dan menjalankan strategi pemasaran yang selaras dengan target penjualan dan pendapatan."
+        },
+        {
+          "detail": "Mendukung tim sales melalui program promosi, materi pemasaran, dan aktivitas dealer."
+        },
+        {
+          "detail": "Menganalisis tren pasar, kebutuhan pelanggan, dan aktivitas kompetitor untuk menemukan peluang pertumbuhan."
+        },
+        {
+          "detail": "Menangani keberatan, mempresentasikan produk secara persuasif, dan bernegosiasi untuk mendukung konversi penjualan."
+        },
+        {
+          "detail": "Menyiapkan laporan penjualan dan memantau kinerja terhadap target bulanan."
+        }
+      ],
+      "achievements": []
+    },
+    {
+      "id": 2,
+      "role": "Telemarketing Property",
+      "company": "Mustika Land",
+      "track": [
+        "sales"
+      ],
+      "startDate": "Juli 2024",
+      "endDate": "Juni 2026",
+      "summary": "Mengelola lead properti melalui CRM dan sales funnel, menganalisis kebutuhan calon pembeli, menyampaikan presentasi produk, serta melakukan follow-up hingga mendukung keputusan pembelian.",
+      "responsibilities": [
+        {
+          "detail": "Mengelola database CRM dan melakukan telemarketing tertarget untuk membina lead di sepanjang sales funnel."
+        },
+        {
+          "detail": "Menganalisis kebutuhan pelanggan untuk mengkualifikasi prospek dan mencocokkan penawaran properti dengan profil pembeli."
+        },
+        {
+          "detail": "Menyampaikan presentasi produk yang mencakup fitur properti, harga, dan skema pembayaran."
+        },
+        {
+          "detail": "Melakukan follow-up lead secara konsisten untuk meningkatkan kunjungan lokasi, konversi, dan pendapatan penjualan."
+        },
+        {
+          "detail": "Mendukung pencapaian target penjualan dan pendapatan bulanan melalui prospecting dan engagement pelanggan."
+        },
+        {
+          "detail": "Menangani keberatan pelanggan dan memberikan solusi untuk mendukung keputusan pembelian."
+        },
+        {
+          "detail": "Berkolaborasi dengan tim Marketing, Sales, dan Operations untuk menjaga konsistensi informasi produk dan target bisnis."
+        }
+      ],
+      "achievements": []
+    },
+    {
+      "id": 3,
+      "role": "Bancassurance Financial Advisor (BFA) (Project Based)",
+      "company": "PT Asuransi BRI Life",
+      "track": [
+        "sales"
+      ],
+      "startDate": "September 2023",
+      "endDate": "Juni 2024",
+      "summary": "Memasarkan produk asuransi kepada nasabah bank dengan pendekatan berbasis kebutuhan dan membangun hubungan pelanggan jangka panjang.",
+      "responsibilities": [
+        {
+          "detail": "Memasarkan produk asuransi kepada nasabah bank dengan pendekatan needs-based selling."
+        },
+        {
+          "detail": "Melakukan segmentasi pelanggan dan analisis kebutuhan finansial untuk merekomendasikan solusi yang sesuai."
+        },
+        {
+          "detail": "Menjelaskan manfaat dan cakupan perlindungan produk dengan bahasa yang mudah dipahami."
+        },
+        {
+          "detail": "Membangun hubungan klien jangka panjang untuk mendukung loyalitas dan pembelian berulang."
+        },
+        {
+          "detail": "Mendukung pencapaian target penjualan bulanan melalui penempatan produk dan engagement yang efektif."
+        }
+      ],
+      "achievements": []
+    },
+    {
+      "id": 4,
+      "role": "Marketing Specialist Event (Based Project)",
+      "company": "PT OXONE",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "startDate": "Juli 2022",
+      "endDate": "Juni 2023",
+      "summary": "Mendukung kegiatan event marketing, edukasi produk, kampanye pemasaran, laporan penjualan, dan pemantauan stok.",
+      "responsibilities": [
+        {
+          "detail": "Menjelaskan fitur produk kepada pelanggan dan mendukung kampanye pemasaran."
+        },
+        {
+          "detail": "Mengumpulkan insight pelanggan untuk mendukung penjualan."
+        },
+        {
+          "detail": "Menyiapkan laporan penjualan dan memantau ketersediaan stok untuk kelancaran operasional."
+        }
+      ],
+      "achievements": []
+    }
+  ],
+  "competencies": [
+    {
+      "id": 9,
+      "title": "Pemantauan ketersediaan stok",
+      "group": "Stok dan operasional",
+      "track": [
+        "admin"
+      ],
+      "detail": "Memantau ketersediaan stok serta menyiapkan informasi untuk mendukung kelancaran penjualan."
+    },
+    {
+      "id": 8,
+      "title": "Akuntansi dan administrasi keuangan",
+      "group": "Latar belakang akuntansi",
+      "track": [
+        "admin"
+      ],
+      "detail": "Sarjana Akuntansi dan Business/Management, IPK 3.59/4.00; didukung pelatihan Accurate dan Brevet Pajak dari STEI."
+    },
+    {
+      "id": 7,
+      "title": "Riset pasar & analisis kompetitor",
+      "group": "Data dan sistem",
+      "track": [
+        "sales"
+      ],
+      "detail": "Menganalisis tren pasar, kebutuhan pelanggan, dan aktivitas kompetitor untuk mengenali peluang."
+    },
+    {
+      "id": 5,
+      "title": "Kampanye dan realisasi dealer/distributor",
+      "group": "Kampanye dealer/distributor",
+      "track": [
+        "admin",
+        "sales"
+      ],
+      "detail": "Menghitung pencapaian kampanye serta mengoordinasikan realisasi insentif bersama Administrasi, Finance, dan Accounting sesuai SOP."
+    },
+    {
+      "id": 4,
+      "title": "Laporan penjualan & monitoring target",
+      "group": "Administrasi penjualan",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "detail": "Menyiapkan laporan penjualan dan memantau kinerja terhadap target bulanan."
+    },
+    {
+      "id": 3,
+      "title": "Analisis kebutuhan & presentasi produk",
+      "group": "Koordinasi lintas divisi",
+      "track": [
+        "sales"
+      ],
+      "detail": "Menggali kebutuhan pelanggan, menyampaikan fitur, harga, skema pembayaran, serta solusi produk."
+    },
+    {
+      "id": 2,
+      "title": "CRM & sales funnel management",
+      "group": "Data dan sistem",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "detail": "Mengelola database dan status lead melalui CRM untuk membantu memaksimalkan peluang konversi."
+    },
+    {
+      "id": 1,
+      "title": "Telemarketing, cold calling & lead generation",
+      "group": "Administrasi penjualan",
+      "track": [
+        "sales"
+      ],
+      "detail": "Melakukan panggilan tertarget, menghasilkan lead, melakukan follow-up, dan menangani keberatan pelanggan."
+    }
+  ],
+  "workflows": [
+    {
+      "id": 2,
+      "title": "Pengelolaan lead hingga penjualan",
+      "track": "sales",
+      "steps": [
+        {
+          "label": "Lead masuk"
+        },
+        {
+          "label": "Input dan segmentasi CRM"
+        },
+        {
+          "label": "Analisis kebutuhan"
+        },
+        {
+          "label": "Presentasi produk"
+        },
+        {
+          "label": "Follow-up dan penanganan keberatan"
+        },
+        {
+          "label": "Pembaruan hasil di CRM"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Kampanye dealer dan distributor",
+      "track": "admin",
+      "steps": [
+        {
+          "label": "Rencana kampanye"
+        },
+        {
+          "label": "Kampanye berjalan"
+        },
+        {
+          "label": "Hitung pencapaian"
+        },
+        {
+          "label": "Verifikasi realisasi"
+        },
+        {
+          "label": "Koordinasi Admin / Finance / Accounting"
+        },
+        {
+          "label": "Insentif dan laporan"
+        }
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "id": 1,
+      "title": "Sekai Telemarketing & Dealer Campaigns",
+      "company": "PT. Tripacific Electrindo",
+      "role": "Telemarketing Specialist",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "anonymized": true,
+      "preview": {
+        "url": "/projects/tripacific-sekai-sales.png",
+        "alt": "Illustrative Sekai sales order and customer follow-up dashboard"
+      },
+      "description": "Nationwide Sekai marketing support combining telemarketing, CRM lead follow-up, sales reporting, and dealer/distributor campaign execution.",
+      "highlights": [
+        "Supported nationwide Sekai marketing and BTL sales campaigns.",
+        "Generated and followed up on leads through telemarketing, cold calling, and CRM.",
+        "Calculated dealer campaign results and coordinated incentive realization with Administration, Finance, and Accounting under SOPs.",
+        "Prepared sales reports, monitored monthly targets, and reviewed market and competitor activity."
+      ],
+      "tools": [
+        "Salesforce / HubSpot / Zoho CRM",
+        "ERP systems",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Email and social media marketing tools"
+      ],
+      "skills": [
+        "Telemarketing & lead generation",
+        "CRM lead management",
+        "Dealer campaign reporting",
+        "Sales target monitoring",
+        "Product presentation & negotiation"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Property Lead Management & Telemarketing",
+      "company": "Mustika Land",
+      "role": "Telemarketing Property",
+      "track": [
+        "sales"
+      ],
+      "anonymized": true,
+      "preview": {
+        "url": "/projects/mustika-land-telemarketing.png",
+        "alt": "Illustrative property lead pipeline and follow-up dashboard"
+      },
+      "description": "Managed property prospects through a CRM sales funnel, from qualification and product presentation to consistent follow-up and purchase support.",
+      "highlights": [
+        "Maintained CRM lead records and carried out targeted telemarketing outreach.",
+        "Matched property offerings, pricing, and payment schemes to customer needs.",
+        "Followed up to support site visits, conversion, and monthly sales targets.",
+        "Handled objections and coordinated consistent messaging with Marketing, Sales, and Operations."
+      ],
+      "tools": [
+        "Salesforce / HubSpot / Zoho CRM",
+        "Microsoft Excel",
+        "Google Workspace",
+        "Email and communication tools"
+      ],
+      "skills": [
+        "Lead qualification",
+        "Customer needs analysis",
+        "Sales funnel management",
+        "Product presentation",
+        "Follow-up & objection handling"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bancassurance Customer Needs & Product Advisory",
+      "company": "PT Asuransi BRI Life",
+      "role": "Bancassurance Financial Advisor (BFA) (Project Based)",
+      "track": [
+        "sales"
+      ],
+      "anonymized": true,
+      "preview": {
+        "url": "/projects/bancassurance-financial-advisor.png",
+        "alt": "Illustrative bancassurance prospect CRM and customer follow-up dashboard"
+      },
+      "description": "Supported bank customers with needs-based insurance product recommendations, clear benefit explanations, and ongoing relationship building.",
+      "highlights": [
+        "Marketed insurance products to bank customers using a needs-based approach.",
+        "Segmented prospects and reviewed financial needs to recommend suitable solutions.",
+        "Explained product benefits and coverage in accessible language.",
+        "Built client relationships and worked toward monthly sales targets."
+      ],
+      "tools": [
+        "CRM platforms listed in the CV",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Email, Zoom, and Google Meet"
+      ],
+      "skills": [
+        "Customer segmentation",
+        "Financial needs analysis",
+        "Product positioning",
+        "Customer engagement",
+        "Relationship building"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "OXONE Event Marketing & Sales Operations",
+      "company": "PT OXONE",
+      "role": "Marketing Specialist Event (Based Project)",
+      "track": [
+        "sales",
+        "admin"
+      ],
+      "anonymized": true,
+      "preview": {
+        "url": "/projects/oxone-event-marketing.png",
+        "alt": "Illustrative OXONE event calendar, campaign, and sales reporting dashboard"
+      },
+      "description": "Supported product education and event campaigns while collecting customer insights and helping keep sales reporting and stock information current.",
+      "highlights": [
+        "Educated customers about product features during marketing activities.",
+        "Supported event campaigns and collected customer insights for sales.",
+        "Prepared sales reports and monitored stock availability for smooth operations."
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Google Workspace",
+        "Social media platforms",
+        "Email marketing tools"
+      ],
+      "skills": [
+        "Event marketing support",
+        "Product knowledge",
+        "Customer engagement",
+        "Sales reporting",
+        "Stock monitoring"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 45,
+      "name": "Communication Skills",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "English — Intermediate",
+      "group": "Languages",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Bahasa Indonesia — Native",
+      "group": "Languages",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Time Management",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Relationship Building",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Problem Solving",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Adaptability",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Result-driven",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Customer Orientation",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Cross-functional Collaboration",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Communication",
+      "group": "Soft Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Competitor Analysis",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Product Knowledge",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Lead Generation",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Negotiation",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Data Reporting & Analysis",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Sales Support & Enablement",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Market Research & Analysis",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Product Presentation & Demonstration",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sales Funnel Management",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Customer Needs Analysis",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Product Positioning",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "B2B Sales",
+      "group": "Hard Skills",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Campaign Support",
+      "group": "Sales & Marketing",
+      "track": [
+        "sales"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "BTL Marketing",
+      "group": "Sales & Marketing",
+      "track": [
+        "sales"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Social Media Platforms",
+      "group": "Sales & Marketing",
+      "track": [
+        "sales"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Email Marketing Tools",
+      "group": "Sales & Marketing",
+      "track": [
+        "sales"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Microsoft Word",
+      "group": "Office & Data",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Microsoft PowerPoint",
+      "group": "Office & Data",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Microsoft Excel",
+      "group": "Office & Data",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "ERP Systems",
+      "group": "Sistem & ERP",
+      "track": [
+        "admin"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Zoho CRM",
+      "group": "CRM",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Microsoft Teams",
+      "group": "Komunikasi",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Google Meet",
+      "group": "Komunikasi",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Zoom",
+      "group": "Komunikasi",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Google Workspace",
+      "group": "Office & Data",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Accurate",
+      "group": "Sistem & ERP",
+      "track": [
+        "admin"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "HubSpot",
+      "group": "CRM",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Salesforce",
+      "group": "CRM",
+      "track": [
+        "sales",
+        "admin"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "qualification": "Bachelor of Accounting and Business/Management",
+      "institution": "STIE Indonesia Jakarta",
+      "startDate": "2019",
+      "endDate": "2023",
+      "detail": "GPA 3.59/4.00"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 4,
+      "title": "Prepare The Future: Unlock Your Passion and Let’s Know Yourself",
+      "issuer": "STEI",
+      "year": "2023",
+      "description": "Sertifikat seminar pengembangan diri."
+    },
+    {
+      "id": 3,
+      "title": "Pelatihan Kepemimpinan & Inovasi Mahasiswa STEI",
+      "issuer": "STEI",
+      "year": "2023",
+      "description": "Sertifikat pelatihan kepemimpinan dan inovasi mahasiswa."
+    },
+    {
+      "id": 2,
+      "title": "Brevet Pajak",
+      "issuer": "STEI",
+      "year": "2022",
+      "description": "Sertifikasi/pelatihan perpajakan."
+    },
+    {
+      "id": 1,
+      "title": "Accurate Accounting Software Training",
+      "issuer": "STEI",
+      "year": "2022",
+      "description": "Pelatihan software akuntansi Accurate."
+    }
+  ]
+}
