@@ -24,3 +24,4 @@ Deploy sebagai aplikasi Next.js di Vercel atau host Node.js lain. Tidak diperluk
 ## Mengubah konten
 
 Edit `data/public-content.json` untuk memperbarui profil, pengalaman, kompetensi, alur kerja, skill, sampel, testimoni, pendidikan, atau sertifikat. CV dan gambar publik disimpan di folder `public/`.
+# cynthiamrd
