@@ -41,10 +41,7 @@ export function ProjectGallery({ projects, locale }: { projects: any[]; locale: 
     </div>
     <div className="sample-grid project-grid" id="project-gallery" role="tabpanel">
       {visibleProjects.length ? visibleProjects.map((project) => <article className="sample-card project-card" key={project.id}>
-        <div className="sample-thumbnail">
-          {project.preview?.url ? <button type="button" className="project-image-trigger" aria-label={`${labels.viewImage}: ${project.title}`} onClick={() => setPreview({ src: project.preview.url, alt: project.preview.alt || project.title, title: project.title })}><img src={project.preview.url} alt="" /><span><Expand aria-hidden="true" />{labels.viewImage}</span></button> : <div className="sheet-preview"><span>{project.title}</span><i /><i /><i /><i /><i /></div>}
-          <span className="file-badge">{labels.imageNotice}</span>
-        </div>
+        <div className="sample-thumbnail">          {project.preview?.url ? <button type="button" className="project-image-trigger" aria-label={`${labels.viewImage}: ${project.title}`} onClick={() => setPreview({ src: project.preview.url, alt: project.preview.alt || project.title, title: project.title })}><img src={project.preview.url} alt="" /><span><Expand aria-hidden="true" />{labels.viewImage}</span></button> : <div className="sheet-preview"><span>{project.title}</span><i /><i /><i /><i /><i /></div>}</div>
         <div className="sample-info">
           <small>{project.company} · {project.role}</small>
           <h3>{project.title}</h3>

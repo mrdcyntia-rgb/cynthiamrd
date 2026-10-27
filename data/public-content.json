@@ -7,7 +7,7 @@
       "location": "Gambir, Jakarta Pusat",
       "email": "mrdcntyaa@gmail.com",
       "whatsapp": "+62 822-1378-5547",
-      "linkedin": "",
+      "linkedin": "https://www.linkedin.com/in/cyntia-mrnd-879161402/",
       "introSales": "Profesional Marketing dan Sales dengan pengalaman lebih dari satu tahun dalam promosi produk, pengelolaan lead berbasis CRM, dan optimalisasi proses penjualan melalui sistem ERP. Terampil dalam presentasi produk, analisis kebutuhan pelanggan, dan pencapaian target penjualan. Siap berkontribusi sebagai Product Marketing Representative untuk meningkatkan kesadaran merek, mengoptimalkan proses penjualan berbasis teknologi, dan mendukung pertumbuhan bisnis berkelanjutan.",
       "introAdmin": "Profesional Marketing dan Sales dengan pengalaman lebih dari satu tahun dalam promosi produk, pengelolaan lead CRM, pelaporan penjualan, dan proses penjualan berbasis ERP. Pengalaman mencakup koordinasi kampanye dealer/distributor bersama Administrasi, Finance, dan Accounting sesuai SOP serta pemantauan ketersediaan stok.",
       "profilePhoto": {
@@ -305,7 +305,7 @@
       "anonymized": true,
       "preview": {
         "url": "/projects/tripacific-sekai-sales.png",
-        "alt": "Illustrative Sekai sales order and customer follow-up dashboard"
+        "alt": "PT. Tripacific Electrindo — Sekai Telemarketing & Dealer Campaigns"
       },
       "description": "Nationwide Sekai marketing support combining telemarketing, CRM lead follow-up, sales reporting, and dealer/distributor campaign execution.",
       "highlights": [
@@ -315,7 +315,7 @@
         "Prepared sales reports, monitored monthly targets, and reviewed market and competitor activity."
       ],
       "tools": [
-        "Salesforce / HubSpot / Zoho CRM",
+        "CRM",
         "ERP systems",
         "Microsoft Excel",
         "PowerPoint",
@@ -340,7 +340,7 @@
       "anonymized": true,
       "preview": {
         "url": "/projects/mustika-land-telemarketing.png",
-        "alt": "Illustrative property lead pipeline and follow-up dashboard"
+        "alt": "Mustika Land — Property Lead Management & Telemarketing"
       },
       "description": "Managed property prospects through a CRM sales funnel, from qualification and product presentation to consistent follow-up and purchase support.",
       "highlights": [
@@ -350,7 +350,7 @@
         "Handled objections and coordinated consistent messaging with Marketing, Sales, and Operations."
       ],
       "tools": [
-        "Salesforce / HubSpot / Zoho CRM",
+        "CRM",
         "Microsoft Excel",
         "Google Workspace",
         "Email and communication tools"
@@ -374,7 +374,7 @@
       "anonymized": true,
       "preview": {
         "url": "/projects/bancassurance-financial-advisor.png",
-        "alt": "Illustrative bancassurance prospect CRM and customer follow-up dashboard"
+        "alt": "PT Asuransi BRI Life — Bancassurance Customer Needs & Product Advisory"
       },
       "description": "Supported bank customers with needs-based insurance product recommendations, clear benefit explanations, and ongoing relationship building.",
       "highlights": [
@@ -409,7 +409,7 @@
       "anonymized": true,
       "preview": {
         "url": "/projects/oxone-event-marketing.png",
-        "alt": "Illustrative OXONE event calendar, campaign, and sales reporting dashboard"
+        "alt": "PT OXONE — OXONE Event Marketing & Sales Operations"
       },
       "description": "Supported product education and event campaigns while collecting customer insights and helping keep sales reporting and stock information current.",
       "highlights": [
